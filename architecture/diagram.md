@@ -1,4 +1,4 @@
-# 🌐 Cloud Architecture Diagram
+        # 🌐 Cloud Architecture Diagram
 
 ## 📌 Overview
 
@@ -66,3 +66,9 @@ Azure Monitor                    CloudWatch
 ## 📸 Diagram
 
 (Add architecture diagram image in screenshots folder)
+
+## 📸 Architecture Diagram
+
+![Cloud Architecture](../screenshots/architecture.png)
+
+Diagram done
